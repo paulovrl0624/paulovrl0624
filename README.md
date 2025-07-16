@@ -1,4 +1,4 @@
-<h1>Oi! Eu sou o Paulo Victor 👋</h1>
+<h1>Oi! Eu sou o Paulo Vitor 👋</h1>
 
 <p>
   <a href="#portugues">🇧🇷 Português</a> | <a href="#english">🇬🇧 English</a>

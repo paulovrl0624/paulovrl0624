@@ -63,7 +63,7 @@
 ### 📊 Minhas Estatísticas no GitHub / My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovrl062431&layout=compact&theme=dark&locale=pt-br" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovrl0624&layout=compact&theme=dark&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
@@ -78,7 +78,7 @@
 
 ---
 
-![Snake animation](https://github.com/paulovrl062431/paulovrl062431/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paulovrl0624/paulovrl0624/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

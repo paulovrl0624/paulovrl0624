@@ -63,9 +63,8 @@
 ### 📊 Minhas Estatísticas no GitHub / My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovrl0624&layout=compact&theme=dark&locale=pt-br&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovrl0624&layout=compact&theme=dark&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
-
 
 ---
 

@@ -78,10 +78,6 @@
 
 ---
 
-![Snake animation](https://github.com/paulovrl0624/paulovrl0624/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <div align="center">
   <h3>🚀 Pronto para o próximo desafio!</h3>
   <p>Sinta-se à vontade para explorar meus repositórios fixados e ver o que venho construindo.</p>

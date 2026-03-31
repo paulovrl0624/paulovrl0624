@@ -10,7 +10,7 @@
 ### 🌟 Sobre Mim
 
 <p>
-  🎓 Estudante do 3º ano do Ensino Médio, com 17 anos, e estou prestes a concluir esta etapa. Minha paixão por <b>tecnologia e programação</b> começou cedo e se tornou um foco central na minha jornada. Tenho uma curiosidade insaciável por como as coisas funcionam por trás das telas e um grande desejo de construir soluções inovadoras.
+  Tenho 18 anos. Minha paixão por <b>tecnologia e programação</b> começou cedo e se tornou um foco central na minha jornada. Tenho uma curiosidade insaciável por como as coisas funcionam por trás das telas e um grande desejo de construir soluções inovadoras.
 </p>
 <p>
   Tenho me dedicado ao estudo de <b>desenvolvimento web</b> (com foco especial em <b>frontend e ambições em backend</b>) e diversas linguagens de programação, sempre em busca de aprender mais, praticar e evoluir constantemente na área. Adoro o processo de transformar ideias abstratas em código funcional e a satisfação de resolver problemas complexos, buscando sempre <b>criar experiências de usuário intuitivas e eficientes</b>.

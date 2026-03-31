@@ -30,7 +30,7 @@
 ### 🌟 About Me
 
 <p>
-  🎓 A 17-year-old high school student, currently in my last year, I'm deeply passionate about programming, technology, and innovation. My journey into the digital world began with curiosity, quickly evolving into a dedicated pursuit of creating solutions.
+  🎓 18-year-old, currently in my last year, I'm deeply passionate about programming, technology, and innovation. My journey into the digital world began with curiosity, quickly evolving into a dedicated pursuit of creating solutions.
 </p>
 <p>
   I've been focusing on <b>web development</b> (with a keen interest in both <b>frontend and aspiring to delve into backend</b>) and exploring various programming languages and concepts. My goal is to continuously learn, practice, and evolve in the tech field. I love the process of transforming abstract ideas into functional code and the satisfaction of solving complex problems, always striving to <b>create intuitive and efficient user experiences</b>.

@@ -10,7 +10,7 @@
 ### 🌟 Sobre Mim
 
 <p>
-  Tenho 18 anos. Minha paixão por <b>tecnologia e programação</b> começou cedo e se tornou um foco central na minha jornada. Tenho uma curiosidade insaciável por como as coisas funcionam por trás das telas e um grande desejo de construir soluções inovadoras.
+  Minha paixão por <b>tecnologia e programação</b> começou cedo e se tornou um foco central na minha jornada. Tenho uma curiosidade insaciável por como as coisas funcionam por trás das telas e um grande desejo de construir soluções inovadoras.
 </p>
 <p>
   Tenho me dedicado ao estudo de <b>desenvolvimento web</b> (com foco especial em <b>frontend e ambições em backend</b>) e diversas linguagens de programação, sempre em busca de aprender mais, praticar e evoluir constantemente na área. Adoro o processo de transformar ideias abstratas em código funcional e a satisfação de resolver problemas complexos, buscando sempre <b>criar experiências de usuário intuitivas e eficientes</b>.
@@ -30,7 +30,7 @@
 ### 🌟 About Me
 
 <p>
-  🎓 18-year-old, currently in my last year, I'm deeply passionate about programming, technology, and innovation. My journey into the digital world began with curiosity, quickly evolving into a dedicated pursuit of creating solutions.
+  My journey into the digital world began with curiosity, quickly evolving into a dedicated pursuit of creating solutions.
 </p>
 <p>
   I've been focusing on <b>web development</b> (with a keen interest in both <b>frontend and aspiring to delve into backend</b>) and exploring various programming languages and concepts. My goal is to continuously learn, practice, and evolve in the tech field. I love the process of transforming abstract ideas into functional code and the satisfaction of solving complex problems, always striving to <b>create intuitive and efficient user experiences</b>.
